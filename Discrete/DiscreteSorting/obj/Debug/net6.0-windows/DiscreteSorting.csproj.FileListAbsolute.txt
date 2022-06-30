@@ -1,0 +1,36 @@
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.exe
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.deps.json
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.runtimeconfig.json
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.dll
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.pdb
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.csproj.AssemblyReference.cache
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.csproj.GenerateResource.cache
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.AssemblyInfoInputs.cache
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.AssemblyInfo.cs
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.csproj.CoreCompileInputs.cache
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.dll
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\refint\DiscreteSorting.dll
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.pdb
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.genruntimeconfig.cache
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\ref\DiscreteSorting.dll
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.Simulation.resources
+C:\Users\msach\Documents\GameProgramming\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.MainForm.resources
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.exe
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.deps.json
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.runtimeconfig.json
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.dll
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\bin\Debug\net6.0-windows\DiscreteSorting.pdb
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.csproj.AssemblyReference.cache
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.MainForm.resources
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.Simulation.resources
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.csproj.GenerateResource.cache
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.AssemblyInfoInputs.cache
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.AssemblyInfo.cs
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.csproj.CoreCompileInputs.cache
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.dll
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\refint\DiscreteSorting.dll
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.pdb
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\DiscreteSorting.genruntimeconfig.cache
+C:\Users\msach\Documents\Programming Projects\Simulations\DiscreteSorting\obj\Debug\net6.0-windows\ref\DiscreteSorting.dll
